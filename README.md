@@ -1,1 +1,2 @@
-# my_store.sql
+# my_store
+
